@@ -85,3 +85,13 @@
     height: 300px;
     border-radius: 10%;
 }
+
+#ghlf {
+    background-image: url("/Images/Screenshot 2025-01-20 at 4.42.06 PM.png");
+    background-size:cover;
+}
+
+#powerGrid {
+    background-image: url("/Images/powergridimg.jpeg");
+    background-size:cover;
+}
