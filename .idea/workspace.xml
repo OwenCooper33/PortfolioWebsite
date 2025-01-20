@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f2bb41-ff93-4fc6-b5ec-ca548c9c40e8" name="Changes" comment="Changed page layout">
+    <list default="true" id="d2f2bb41-ff93-4fc6-b5ec-ca548c9c40e8" name="Changes" comment="fixed background colors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737374142112</updated>
       <workItem from="1737374143520" duration="10128000" />
-      <workItem from="1737389783533" duration="690000" />
+      <workItem from="1737389783533" duration="3784000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -127,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737384279021</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixed background colors">
+      <option name="closed" value="true" />
+      <created>1737390483781</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737390483781</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed background colors">
+      <option name="closed" value="true" />
+      <created>1737391513442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737391513442</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +155,7 @@
     <MESSAGE value="Developing Portfolio site" />
     <MESSAGE value="Added Typewriter effect" />
     <MESSAGE value="Changed page layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed page layout" />
+    <MESSAGE value="fixed background colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed background colors" />
   </component>
 </project>

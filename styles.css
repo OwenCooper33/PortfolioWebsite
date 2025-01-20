@@ -20,7 +20,7 @@
     border-bottom-left-radius: 20%;
 }
 
-#blueRectangle {
+.blueRectangle {
     background: #9BDDFF;
     padding:1%;
 }
@@ -69,12 +69,19 @@
 
 }
 
-#Links {
-    width: 100%;
-    padding-left: 15%;
-    height: 10000px;
-    font-size: 60px;
-    font-weight: normal;
-    color: PowderBlue;
+#portfolioLinks {
+    font-size: 30px;
+    border:black;
+    padding:5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
 }
 
+.linkButtons {
+    width: 500px;
+    height: 300px;
+    border-radius: 10%;
+}
