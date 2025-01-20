@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f2bb41-ff93-4fc6-b5ec-ca548c9c40e8" name="Changes" comment="Developing Portfolio site">
-      <change afterPath="$PROJECT_DIR$/typewriterEffect.js" afterDir="false" />
+    <list default="true" id="d2f2bb41-ff93-4fc6-b5ec-ca548c9c40e8" name="Changes" comment="Added Typewriter effect">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -85,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737374142112</updated>
-      <workItem from="1737374143520" duration="3447000" />
+      <workItem from="1737374143520" duration="5837000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -103,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737376053986</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Typewriter effect">
+      <option name="closed" value="true" />
+      <created>1737377795839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737377795839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Developing Portfolio site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Developing Portfolio site" />
+    <MESSAGE value="Added Typewriter effect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Typewriter effect" />
   </component>
 </project>
