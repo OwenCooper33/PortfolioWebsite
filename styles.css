@@ -1,9 +1,12 @@
 /* styles.css */
-* {
+#firstSection {
+    width: 100%;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #292929;
+    background-color: darkgray;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
 }
 
 #blueRectangle {
@@ -11,21 +14,55 @@
     padding:1%;
 }
 
+#Welcome {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    padding-right: 15%;
+}
+#me {
+    border-radius: 50%;
+    max-width: 30%;
+    max-height: 20%;
+    object-fit: cover;
+}
+
 #welcomeText {
+    width: 100%;
     padding-left: 7%;
     padding-top: 7%;
     padding-bottom: 3%;
     font-size: 140px;
     font-weight: normal;
     color: PowderBlue;
-    background: #292929
 }
 
 #AboutMeBlurb {
+    width: 100%;
     padding-left: 7%;
+    padding-bottom: 7%;
     font-size: 60px;
     font-weight: normal;
     color: PowderBlue;
-    background: #292929;
+}
+
+#arrowButton {
+    padding-left: 45%;
+    color: PowderBlue;
+    font-size: 50px;
+    background:none;
+    border:none;
+
+}
+
+#Links {
+    width: 100%;
+    padding-left: 15%;
+    height: 10000px;
+    font-size: 60px;
+    font-weight: normal;
+    color: PowderBlue;
+    background: aliceblue;
 }
 
