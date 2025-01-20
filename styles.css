@@ -222,8 +222,16 @@ a:hover {
 }
 
 #welcomeText {
+    padding: 10%;
     font-size: 175px;
     font-weight: normal;
-    color: blue;
+    color: PowderBlue;
+    background: black;
+}
+#AboutMeBlurb {
+    padding: 10%;
+    font-size: 75px;
+    font-weight: normal;
+    color: PowderBlue;
     background: black;
 }
