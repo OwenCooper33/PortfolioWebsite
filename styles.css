@@ -221,9 +221,9 @@ a:hover {
     flex-direction: column;
 }
 
-
 #welcomeText {
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 175px;
+    font-weight: normal;
     color: blue;
+    background: black;
 }
