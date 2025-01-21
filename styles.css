@@ -111,20 +111,25 @@ a {
     background-color: darkgray;
     transition: all 0.9s ease;
     background-image: none;
+    font-size: 20px;
+    padding: 5%;
     color: white;
     transform: scale(1.1);
 }
 
-#powerGrid {
-    background-image: url("/Images/powergridimg.jpeg");
-    background-size:cover;
+#run {
+    background-image: url("/Images/run.png");
+    background-size: contain;
+    background-color: white;
 }
 
-#powerGrid:hover {
+#run:hover {
     background-color: darkgray;
     transition: all 0.9s ease;
     background-image: none;
     color: white;
+    font-size: 20px;
+    padding: 5%;
     transform: scale(1.1);
 }
 
@@ -149,6 +154,8 @@ a {
     transition: all 0.9s ease;
     background-image: none;
     color: white;
+    font-size: 20px;
+    padding: 5%;
     transform: scale(1.1);
 }
 
