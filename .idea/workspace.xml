@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f2bb41-ff93-4fc6-b5ec-ca548c9c40e8" name="Changes" comment="adding links to portfolio projects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d2f2bb41-ff93-4fc6-b5ec-ca548c9c40e8" name="Changes" comment="Added blurb about GHLF project">
+      <change afterPath="$PROJECT_DIR$/Images/tetris.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -17,8 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -86,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737374142112</updated>
       <workItem from="1737374143520" duration="10128000" />
-      <workItem from="1737389783533" duration="7191000" />
+      <workItem from="1737389783533" duration="9371000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -160,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737409863849</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added blurb about GHLF project">
+      <option name="closed" value="true" />
+      <created>1737423041116</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737423041116</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +184,7 @@
     <MESSAGE value="Changed page layout" />
     <MESSAGE value="fixed background colors" />
     <MESSAGE value="adding links to portfolio projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding links to portfolio projects" />
+    <MESSAGE value="Added blurb about GHLF project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added blurb about GHLF project" />
   </component>
 </project>
