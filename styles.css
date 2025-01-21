@@ -75,7 +75,7 @@ a {
 
 }
 
-#portfolioLinks {
+#portfolioLinks1 {
     font-size: 30px;
     border:black;
     padding:5%;
@@ -115,9 +115,40 @@ a {
     transform: scale(1.1);
 }
 
-
-
 #powerGrid {
     background-image: url("/Images/powergridimg.jpeg");
     background-size:cover;
 }
+
+#powerGrid:hover {
+    background-color: darkgray;
+    transition: all 0.9s ease;
+    background-image: none;
+    color: white;
+    transform: scale(1.1);
+}
+
+#portfolioLinks2 {
+    font-size: 30px;
+    border:black;
+    padding:5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#tetris {
+    background-image: url("/Images/tetris.jpeg");
+    background-size:cover;
+}
+
+#tetris:hover {
+    background-color: darkgray;
+    transition: all 0.9s ease;
+    background-image: none;
+    color: white;
+    transform: scale(1.1);
+}
+

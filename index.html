@@ -38,7 +38,7 @@
     function typeWriter() {
         if (i < txt.length) {
             if (txt.charAt(i) === 'z') {
-                document.getElementById("AboutMeBlurb").innerHTML += '<button id="arrowButton" onclick="window.scrollTo({ top: 700, behavior: \'smooth\' })"> &#8681; </button';
+                document.getElementById("AboutMeBlurb").innerHTML += '<button id="arrowButton" onclick="window.scrollTo({ top: 900, behavior: \'smooth\' })"> &#8681; </button';
             } else {
                 document.getElementById("AboutMeBlurb").innerHTML += txt.charAt(i);
             }
@@ -50,7 +50,7 @@
         typeWriter();
     };
 </script>
-    <div id="portfolioLinks">
+    <div id="portfolioLinks1">
         <a href="https://ghlf.org/compass-koa-page/">
             <button class="linkButtons" id="ghlf">
                 Designed and developed the CompassKOA
@@ -68,6 +68,18 @@
         <button class="linkButtons" id="powerGrid">
 
         </button>
+        </a>
+    </div>
+    <div id="portfolioLinks2">
+        <a href="tetris.html">
+            <button class="linkButtons" id="tetris">
+
+            </button>
+        </a>
+        <a href="">
+            <button class="linkButtons" id="">
+
+            </button>
         </a>
     </div>
 </div>
