@@ -145,7 +145,7 @@ a {
 }
 
 #tetris {
-    background-image: url("/Images/tetris.jpeg");
+    background-image: url("Images/tetris.jpeg");
     background-size:cover;
 }
 
